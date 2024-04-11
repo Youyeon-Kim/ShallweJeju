@@ -1,2 +1,2 @@
-# ShallweJeju
-제주도로 놀러갑니다.
+# "ShallweJeju"
+Java Spring boot based web page.
